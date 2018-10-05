@@ -16,6 +16,6 @@ Welcome! On this website you can find information about my R packages. For my  p
 
 * *klic* is an R package for Kernel Learning Integrative Clustering. 
   * [Vignette](https://acabassi.github.io/klic/articles/klic-vignette.html).
-  * [Source](https://github.com/klic).
+  * [Source](https://github.com/acabassi/klic).
 
 Please feel free to contact me if you have any question (or suggestion!).
