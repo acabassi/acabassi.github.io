@@ -1,4 +1,7 @@
 # main links links
 main:
-  - title: "Software"
-    url: /software/
+  - title: "coca"
+    url: /coca/
+    
+  - title: "klic"
+    url: /klic/
