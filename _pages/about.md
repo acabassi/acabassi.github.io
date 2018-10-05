@@ -18,4 +18,4 @@ Welcome! On this website you can find information about my R packages. For my  p
   * [Doc](https://acabassi.github.io/klic).
   * [Source](https://github.com/klic).
 
-Please feel free to email me, should you have any questions. 
+Feel free to contact me if you have any question (or suggestion!). 
