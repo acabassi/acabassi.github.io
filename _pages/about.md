@@ -1,22 +1,22 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is my website for software documentation
+On this website you can find information about my R packages. For my  personal website please click [here](alessandracabassi.wordpress.com)
 
 COCA
-======
+------
 
 
 KLIC
-======
+------
 
 
 FDCOV
-======
+------
