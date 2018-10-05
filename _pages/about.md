@@ -1,19 +1,21 @@
 ---
 permalink: /
-title: "Welcome!"
-excerpt: "Welcome!"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-On this website you can find information about my R packages. For my  personal website please click [here](alessandracabassi.wordpress.com).
+Welcome! On this website you can find information about my R packages. For my  personal website please click [here](alessandracabassi.wordpress.com).
 
-coca
-------
-*coca* is an R package for Cluster-Of-Cluster analysis. Documentation can be found [here](https://acabassi.github.io/coca).
+* *coca* is an R package for Cluster-Of-Cluster analysis. 
+  * [Doc](https://acabassi.github.io/coca).
+  * [Source](https://github.com/acabassi/coca).
 
-klic
-------
-*klic* is an R package for Kernel Learning Integrative Clustering. Documentation can be found [here](https://acabassi.github.io/klic).
+* *klic* is an R package for Kernel Learning Integrative Clustering. 
+  * [Doc](https://acabassi.github.io/klic).
+  * [Source](https://github.com/klic).
+
+Please feel free to email me, should you have any questions. 
