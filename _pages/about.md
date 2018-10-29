@@ -25,7 +25,7 @@ Released
 ------
   
 * *fdcov* is an R package that provides a variety of tools for the analysis of covariance operators including k-sample tests for equality and classification and clustering methods.
-  * [Vignette](https://cran.r-project.org/web/packages/fdcov/vignettes/vignette.html)
-  * [Source](https://github.com/acabassi/fdcov)
+  * [Vignette](https://cran.r-project.org/web/packages/fdcov/vignettes/vignette.html).
+  * [Source](https://github.com/acabassi/fdcov).
 
 Please feel free to contact me if you have any question (or suggestion!).
