@@ -10,7 +10,8 @@ redirect_from:
 
 Welcome! On this website you can find information about my R packages. For my  personal website please click [here](https://alessandracabassi.wordpress.com).
 
-*In-development*
+Under development
+------
 
 * *coca* is an R package for Cluster-Of-Cluster analysis. 
   * [Vignette](https://acabassi.github.io/coca/articles/coca-vignette.html).
@@ -20,7 +21,8 @@ Welcome! On this website you can find information about my R packages. For my  p
   * [Vignette](https://acabassi.github.io/klic/articles/klic-vignette.html).
   * [Source](https://github.com/acabassi/klic).
   
-*Released*
+Released
+------
   
 * *fdcov* is an R package that provides a variety of tools for the analysis of covariance operators including k-sample tests for equality and classification and clustering methods.
   * [Vignette](https://cran.r-project.org/web/packages/fdcov/vignettes/vignette.html)
