@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! On this website you can find information about my R packages. For my  personal website please click [here](https://alessandracabassi.wordpress.com).
+Welcome! On this website you can find information about my R packages. For my  personal website please click [here](https://alessandracabassi.com).
 
 Under development
 ------
