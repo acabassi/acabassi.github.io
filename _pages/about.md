@@ -21,6 +21,10 @@ Under development
   * [Vignette](https://acabassi.github.io/klic/articles/klic-vignette.html).
   * [Source](https://github.com/acabassi/klic).
   
+* *vimix* is an R package for Variational Inference for MIXture models.
+  * [Vignette](https://acabassi.github.io/vimix/articles/vimix.html).
+  * [Source](https://github.com/acabassi/vimix).
+  
 Released
 ------
   
