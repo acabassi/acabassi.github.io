@@ -32,4 +32,4 @@ Released
   * [Vignette](https://cran.r-project.org/web/packages/fdcov/vignettes/vignette.html).
   * [Source](https://github.com/acabassi/fdcov).
 
-Please feel free to contact me if you have any question (or suggestion!).
+Please feel free to contact me if you have any questions (or suggestions!).
