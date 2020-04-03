@@ -9,13 +9,6 @@ redirect_from:
 ---
 
 Welcome! On this website you can find information about my R packages. For my  personal website please click [here](https://alessandracabassi.com).
-
-Under development
-------
-  
-* *vimix* is an R package for Variational Inference for MIXture models.
-  * [Vignette](https://acabassi.github.io/vimix/articles/vimix.html).
-  * [Source](https://github.com/acabassi/vimix).
   
 Released
 ------
@@ -34,5 +27,12 @@ Released
   * [Vignette](https://cran.r-project.org/web/packages/fdcov/vignettes/vignette.html).
   * [Source](https://github.com/acabassi/fdcov).
   * [CRAN page](https://cran.r-project.org/web/packages/fdcov/index.html).
+
+Under development
+------
+  
+* *vimix* is an R package for Variational Inference for MIXture models.
+  * [Vignette](https://acabassi.github.io/vimix/articles/vimix.html).
+  * [Source](https://github.com/acabassi/vimix).
 
 Please feel free to contact me if you have any questions (or suggestions!).
